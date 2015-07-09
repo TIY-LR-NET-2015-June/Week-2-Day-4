@@ -61,6 +61,6 @@ Using same Animal concept but with new "DLL" project and UnitTest project in 1 s
 	1. Create a failing tests (RED)
 	2. Make the test pass (GREEN)
 	3. Refactor (improve the initial implementation without changing the external contract or behavior)
-- Show the (Bowling Game Kata Video)[] or do the Kata with the PowerPoint slides
+- Show the [https://www.youtube.com/watch?v=xFGFk0Fnztg](Bowling Game Kata Video) or do the Kata with the PowerPoint slides
 
-##Be aware of (Test-induced design damage)[http://david.heinemeierhansson.com/2014/test-induced-design-damage.html] when using TDD
+##Be aware of [http://david.heinemeierhansson.com/2014/test-induced-design-damage.html](Test-induced design damage) when using TDD
