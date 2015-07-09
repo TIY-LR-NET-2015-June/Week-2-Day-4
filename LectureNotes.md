@@ -3,12 +3,12 @@
 ## Have the students do Challenge #1
 
 ## Lecture - History
-1. Waterfall (http://www.waterfall-model.com/) 
+1. [Waterfall](http://www.waterfall-model.com/) 
 	- Know all requirements up front
 	- Developer team separated from the business team
 	- Only communicate once product is finished and in testing phase
 	- Only deployable at the end of the project
-2. Agile (http://www.waterfall-model.com/agile-software-development-part-1/)
+2. [Agile](http://www.waterfall-model.com/agile-software-development-part-1/)
 	- Iterative approach
 	- Close collaboration between the developers and business experts
 	- Constantly adding value (deployable)
