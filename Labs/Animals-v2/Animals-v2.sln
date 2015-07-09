@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{E7A01257-59CB-4E86-8B32-A58CC168E3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.Tests", "Animals.Tests\Animals.Tests.csproj", "{5F26E18D-95C7-4403-81C6-31A69DC3A16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A01257-59CB-4E86-8B32-A58CC168E3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A01257-59CB-4E86-8B32-A58CC168E3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A01257-59CB-4E86-8B32-A58CC168E3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A01257-59CB-4E86-8B32-A58CC168E3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F26E18D-95C7-4403-81C6-31A69DC3A16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F26E18D-95C7-4403-81C6-31A69DC3A16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F26E18D-95C7-4403-81C6-31A69DC3A16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F26E18D-95C7-4403-81C6-31A69DC3A16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
