@@ -7,7 +7,7 @@ are 25, 10, 5, and 1 cent pieces), we can give:
 
 ```c#
 MakeChange(39)
-returns {25, 10, 1, 1, 1}
+returns {25, 10, 1, 1, 1, 1}
 ````
 ### 2 Challenge #2
 
